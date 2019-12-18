@@ -1,0 +1,42 @@
+= Reading Group @ SICE, IUB
+
+Welcome to the homepage of our reading group for reinforcement learning.
+
+== Info
+
+Host: [https://alanthink.github.io/ Chao Tao]
+
+Time: bi-weekly on 1:00pm - 3:00pm
+
+Place: Lindley Hall 3069
+
+== Schedule
+
+- 1/17, [https://alanthink.github.io/ Chao Tao] on Introduction to Reinforcement Learning
+~~~
+{}{raw}
+<ul>
+~~~
+
+~~~
+{Summary}
+TBD
+~~~
+
+~~~
+{}{raw}
+</ul>
+~~~
+- 1/31, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1703.05449 Minimax regret bounds for reinforcement learning]
+
+- 2/14, [https://alanthink.github.io/ Chao Tao] on [https://papers.nips.cc/paper/7735-is-q-learning-provably-efficient Is Q-learning Provably Efficient?]
+
+- 2/28, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1709.04570 Learning Unknown Markov Decision Processes: A Thompson Sampling Approach]
+
+- 3/13, [https://alanthink.github.io/ Chao Tao] on [http://proceedings.mlr.press/v70/osband17a.html Why is Posterior Sampling Better than Optimism for Reinforcement Learning?]
+
+- 3/27, TBD
+
+- 4/10, TBD
+
+- 4/24, TBD
