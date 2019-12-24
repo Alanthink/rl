@@ -20,7 +20,7 @@ Place: Luddy Hall 3069
 
 ~~~
 {Summary}
-TBD
+Markov Decision Process (MDP); Value Functions; Bellman Equation; Q Learning;
 ~~~
 
 ~~~
@@ -29,11 +29,11 @@ TBD
 ~~~
 - 1/31, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1703.05449 Minimax regret bounds for reinforcement learning]
 
-- 2/14, [https://alanthink.github.io/ Chao Tao] on [https://papers.nips.cc/paper/7735-is-q-learning-provably-efficient Is Q-learning Provably Efficient?]
+- 2/14, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1807.03765 Is Q-learning Provably Efficient?]
 
-- 2/28, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1709.04570 Learning Unknown Markov Decision Processes: A Thompson Sampling Approach]
+- 2/28, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1306.0940 (More) Efficient Reinforcement Learning via Posterior Sampling]
 
-- 3/13, [https://alanthink.github.io/ Chao Tao] on [http://proceedings.mlr.press/v70/osband17a.html Why is Posterior Sampling Better than Optimism for Reinforcement Learning?]
+- 3/13, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1607.00215 Why is Posterior Sampling Better than Optimism for Reinforcement Learning?]
 
 - 3/27, TBD
 
