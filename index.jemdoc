@@ -19,8 +19,8 @@ Place: Luddy Hall 3069
 ~~~
 
 ~~~
-{Summary}
-Markov Decision Process (MDP); Value Functions; Bellman Equation; Q Learning;
+{Keywords}
+Markov Decision Process (MDP); Value Functions; Bellman Equations; Q Learning;
 ~~~
 
 ~~~
@@ -28,13 +28,65 @@ Markov Decision Process (MDP); Value Functions; Bellman Equation; Q Learning;
 </ul>
 ~~~
 - 1/31, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1703.05449 Minimax regret bounds for reinforcement learning]
+~~~
+{}{raw}
+<ul>
+~~~
 
+~~~
+{Keywords}
+Episodic MDP; Model-based; Optimistic Algorithm; Frequentist Regret; $\\widetilde{\\mathcal{O}}(H\\sqrt{SAT})$;
+~~~
+
+~~~
+{}{raw}
+</ul>
+~~~
 - 2/14, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1807.03765 Is Q-learning Provably Efficient?]
+~~~
+{}{raw}
+<ul>
+~~~
 
+~~~
+{Keywords}
+Episodic MDP; Model-free; Optimistic Algorithm; Frequentist Regret; $\\widetilde{\\mathcal{O}}(\\sqrt{H^3SAT})$;
+~~~
+
+~~~
+{}{raw}
+</ul>
+~~~
 - 2/28, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1306.0940 (More) Efficient Reinforcement Learning via Posterior Sampling]
+~~~
+{}{raw}
+<ul>
+~~~
 
+~~~
+{Keywords}
+Episodic MDP; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal{O}}(HS\\sqrt{AT})$;
+~~~
+
+~~~
+{}{raw}
+</ul>
+~~~
 - 3/13, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1607.00215 Why is Posterior Sampling Better than Optimism for Reinforcement Learning?]
+~~~
+{}{raw}
+<ul>
+~~~
 
+~~~
+{Keywords}
+Episodic MDP; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal{O}}(H\\sqrt{SAT})$;
+~~~
+
+~~~
+{}{raw}
+</ul>
+~~~
 - 3/27, TBD
 
 - 4/10, TBD
