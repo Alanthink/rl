@@ -27,7 +27,7 @@ Markov Decision Process (MDP); Value Functions; Bellman Equations; State Occupan
 {}{raw}
 </ul>
 ~~~
-- 1/31, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1703.05449 Minimax regret bounds for reinforcement learning]
+- 1/31, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1703.05449 Minimax regret bounds for reinforcement learning] ([let2.pdf notes])
 ~~~
 {}{raw}
 <ul>
@@ -35,7 +35,7 @@ Markov Decision Process (MDP); Value Functions; Bellman Equations; State Occupan
 
 ~~~
 {Keywords}
-Episodic MDP; Model-based; Optimistic Algorithm; Frequentist Regret; $\\widetilde{\\mathcal{O}}(H\\sqrt{SAT})$;
+Tabular Episodic MDP; Model-based; Optimistic Algorithm; Frequentist Regret; $\\widetilde{\\mathcal{O}}(H\\sqrt{SAT})$;
 ~~~
 
 ~~~
