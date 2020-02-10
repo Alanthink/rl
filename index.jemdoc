@@ -12,7 +12,7 @@ Place: Luddy Hall 3069
 
 == Schedule
 
-- 1/17, [https://alanthink.github.io/ Chao Tao] on Introduction to Reinforcement Learning
+- 1/17, [https://alanthink.github.io/ Chao Tao] on Introduction to Reinforcement Learning ([lec1.pdf notes])
 ~~~
 {}{raw}
 <ul>
@@ -50,7 +50,7 @@ Tabular Episodic MDP; Model-based; Optimistic Algorithm; Frequentist Regret; $\\
 
 ~~~
 {Keywords}
-Episodic MDP; Model-free; Optimistic Algorithm; Frequentist Regret; $\\widetilde{\\mathcal{O}}(\\sqrt{H^3SAT})$;
+Tabular Episodic MDP; Model-free; Optimistic Algorithm; Frequentist Regret; $\\widetilde{\\mathcal{O}}(\\sqrt{H^3SAT})$;
 ~~~
 
 ~~~
@@ -65,7 +65,7 @@ Episodic MDP; Model-free; Optimistic Algorithm; Frequentist Regret; $\\widetilde
 
 ~~~
 {Keywords}
-Episodic MDP; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal{O}}(HS\\sqrt{AT})$;
+Tabular Episodic MDP; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal{O}}(HS\\sqrt{AT})$;
 ~~~
 
 ~~~
@@ -80,7 +80,7 @@ Episodic MDP; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal{O}}(HS\
 
 ~~~
 {Keywords}
-Episodic MDP; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal{O}}(H\\sqrt{SAT})$;
+Tabular Episodic MDP; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal{O}}(H\\sqrt{SAT})$;
 ~~~
 
 ~~~
