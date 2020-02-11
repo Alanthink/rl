@@ -42,7 +42,7 @@ Tabular Episodic MDP; Model-based; Optimistic Algorithm; Frequentist Regret; $\\
 {}{raw}
 </ul>
 ~~~
-- 2/14, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1807.03765 Is Q-learning Provably Efficient?]
+- 2/14, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1807.03765 Is Q-learning Provably Efficient?] ([lec3.pdf notes])
 ~~~
 {}{raw}
 <ul>
@@ -50,7 +50,7 @@ Tabular Episodic MDP; Model-based; Optimistic Algorithm; Frequentist Regret; $\\
 
 ~~~
 {Keywords}
-Tabular Episodic MDP; Model-free; Optimistic Algorithm; Frequentist Regret; $\\widetilde{\\mathcal{O}}(\\sqrt{H^3SAT})$;
+Tabular Episodic MDP; Model-free; Optimistic Algorithm; Frequentist Regret; $\\widetilde{\\mathcal{O}}(H^2\\sqrt{SAT})$;
 ~~~
 
 ~~~
