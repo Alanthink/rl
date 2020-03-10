@@ -72,7 +72,7 @@ Tabular Episodic MDP; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal
 {}{raw}
 </ul>
 ~~~
-- 3/13, [https://alanthink.github.io/ Chao Tao] on [https://arxiv.org/abs/1607.00215 Why is Posterior Sampling Better than Optimism for Reinforcement Learning?]
+- 3/13, [https://alanthink.github.io/ Chao Tao] on [http://papers.nips.cc/paper/6732-learning-unknown-markov-decision-processes-a-thompson-sampling-approach Learning Unknown Markov Decision Processes: A Thompson Sampling Approach]
 ~~~
 {}{raw}
 <ul>
@@ -80,7 +80,7 @@ Tabular Episodic MDP; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal
 
 ~~~
 {Keywords}
-Tabular Episodic MDP; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal{O}}(H\\sqrt{SAT})$;
+Tabular Infinite Communicating MDP; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal{O}}(DS\\sqrt{AT})$;
 ~~~
 
 ~~~
