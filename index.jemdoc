@@ -80,7 +80,7 @@ Tabular Episodic MDP; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal
 
 ~~~
 {Keywords}
-Tabular Infinite Communicating MDP; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal{O}}(DS\\sqrt{AT})$;
+Tabular Infinite Undiscounted MDP; Weakly Communicating; Thompson Sampling; Bayesian Regret; $\\widetilde{\\mathcal{O}}(DS\\sqrt{AT})$;
 ~~~
 
 ~~~
